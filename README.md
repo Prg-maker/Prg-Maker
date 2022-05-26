@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on ...
 - ℹ️ I’m looking for help with database 
 - ✨ Ask me about Javascript
-- 📧 How to reach me: inestproog@gmail.com
+- 📧 How to reach me: daniel.profissional.dev@gmail.com
 - ❤️ I'm a young investor and developer
 - 🔥 my profile codewars daniel_0_0
 - https://peppy-stardust-2d4b59.netlify.app <-- Click
