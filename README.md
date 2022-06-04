@@ -7,6 +7,7 @@
 - 📧 How to reach me: daniel.profissional.dev@gmail.com
 - ❤️ I'm a young investor and developer
 - 🔥 my profile codewars daniel_0_0
+- my instagram: https://www.instagram.com/daniel.profissional.dev ℹ️ℹ️
 - https://peppy-stardust-2d4b59.netlify.app <-- Click
 
 <div align="center">
