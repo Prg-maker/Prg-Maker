@@ -51,7 +51,11 @@
 
   <h2>Algumas aplicações:</h2>
 <div>
-  <img src="https://user-images.githubusercontent.com/71097744/173193360-b57a3990-a345-4592-8222-461da3df4bcc.gif" alt="" />
+  
+  
+  <a href="https://github.com/Prg-maker/isWatching">
+    <img src="https://user-images.githubusercontent.com/71097744/173193360-b57a3990-a345-4592-8222-461da3df4bcc.gif" alt="" />
+  </a>
 </div>
 
 
