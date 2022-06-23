@@ -24,8 +24,8 @@
   <img align="center" alt="Prg-Maker-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Prg-Maker-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Prg-Maker-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Prg-Maker-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Prg-Maker-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+
   <img align="center" alt="Prg-Maker-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
     
    <img align="center" alt="Prg-Maker-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -40,12 +40,11 @@
   
  <div> 
    
-  <a href="https://www.instagram.com/ofdanilf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/daniel.profissional.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/daniel-silva-73b2371b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Prg-Maker/Prg-Maker/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
-<img src="https://c8.alamy.com/comp/2HFJ306/pixel-art-tired-male-character-sitt…ng-on-light-background-8-bit-retro-cartoon-vector-illustration-2HFJ306.jpg" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="pixel art of office work room Stock Vector Image & Art - Alamy" data-noaft="1" style="width: 500px; height: 500px; margin: 0px;">
-  
+
