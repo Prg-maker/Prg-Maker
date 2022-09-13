@@ -60,17 +60,13 @@
   <a href="https://github.com/Prg-maker/isWatching">
     <img src="https://user-images.githubusercontent.com/71097744/173193360-b57a3990-a345-4592-8222-461da3df4bcc.gif" alt="" />
   </a>
-</div>
-
-
-<div >
   
-  
-  <a href="https://github.com/Prg-maker/vigilant-garbanzo/">
-    <img src="https://user-images.githubusercontent.com/71097744/188498596-f5fbc88d-ad06-4e7d-bd9a-c2e56aa572d1.png" alt="" />
+   <a href="https://github.com/Prg-maker/vigilant-garbanzo/">
+    <img width=400 src="https://user-images.githubusercontent.com/71097744/188498596-f5fbc88d-ad06-4e7d-bd9a-c2e56aa572d1.png" alt="" />
   </a>
-</div>
   
+</div>
+
   
   
 </div>
