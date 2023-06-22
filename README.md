@@ -6,15 +6,16 @@
 - ✨ Ask me about Javascript
 - 📧 How to reach me: daniel.profissional.dev@gmail.com
 - ❤️ I'm a young investor and developer
-- 🔥 my profile codewars daniel_0_0
+- 🔥 my profile  Beecrowd <a href="https://www.beecrowd.com.br/judge/en/profile/770714">Daniel F.</a>
 - my instagram: https://www.instagram.com/daniel.profissional.dev ℹ️ℹ️
+- 
 - https://peppy-stardust-2d4b59.netlify.app <-- Click
 
 
 
   
   
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" aling="center"><br>
   <img align="center" alt="Prg-Maker-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Prg-Maker-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Prg-Maker-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -23,6 +24,10 @@
   <img align="center" alt="Prg-Maker-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
     
    <img align="center" alt="Prg-Maker-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+
+ <img align="center" alt="Prg-Maker-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+           
+          
     
     
 <img align="right" alt="gatinho" height="150" style="border-radius:50px;" src="https://i.ytimg.com/vi/AMShoQ_qdc0/maxresdefault.jpg">
@@ -34,7 +39,7 @@
   
  <div> 
    
-  <a href="https://www.instagram.com/daniel.profissional.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 <a href="https://www.linkedin.com/in/daniel-silva-73b2371b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Prg-Maker/Prg-Maker/blob/output/github-contribution-grid-snake.svg)
@@ -47,6 +52,7 @@
   
   
 <div >
+
   
 <div>
   
