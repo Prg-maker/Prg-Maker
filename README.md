@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://template-github-47jp.vercel.app/api?user=prg-maker" alt="GitHub Stats">
+</div>
+
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 
 <p align="center">
@@ -59,3 +63,4 @@ alt="LinkedIn" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
 </p>
+
