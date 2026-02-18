@@ -40,7 +40,7 @@ Strong interest in <strong>Computer Science fundamentals</strong> and
 <h3>🔗 Connect with me</h3>
 
 <p>
-<a href="https://www.linkedin.com/in/danielfernandessilva/" target="_blank">
+<a href="https://www.linkedin.com/in/daniel-silva-73b2371b4/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 alt="LinkedIn" width="35" height="35"/>
 </a>
